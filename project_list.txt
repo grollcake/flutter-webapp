@@ -1,0 +1,3 @@
+tetris
+sliding_puzzle
+pacman
