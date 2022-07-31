@@ -3,6 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
+<<<<<<< HEAD
   "assets/AssetManifest.json": "1e77cb0fb50be1d7c987f85ad86d9aca",
 "assets/assets/icons/icon-tabler-adjustments.svg": "705a6444897d7643fcb7bd92cf37c4f2",
 "assets/assets/icons/icon-tabler-alarm.svg": "34d3864673995db9fd7145a367c790c6",
@@ -13,12 +14,19 @@ const RESOURCES = {
 "assets/assets/icons/icon-tabler-player-skip-back.svg": "a2036c73f602617f1fdf1f1415fa012c",
 "assets/assets/icons/icon-tabler-player-skip-forward.svg": "42a5b5376ffc360ba70265d459f7fa7d",
 "assets/assets/icons/reload-svgrepo-com.svg": "422eb28574b5d33ca5869d015d053e20",
+=======
+  "assets/AssetManifest.json": "9b9ecd2e70840819090d21abf3f2ceac",
+>>>>>>> 499a86f457c8333e04e269c8ce3a8fa7f236b72a
 "assets/assets/images/enjoy-beach-vacation.json": "e5fe0fe2cc34f225ae740e487c4b9482",
 "assets/assets/images/finish.png": "d0d036271547fd8f12f541f9fa989df9",
 "assets/assets/images/lottie-space.json": "05b099c29212cfde79d7a982560d6fa7",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
+<<<<<<< HEAD
 "assets/NOTICES": "ee70831204defbdb8e9342b4c9e1d0f3",
+=======
+"assets/NOTICES": "ffa623d42284e4fdf76732b0c50c061b",
+>>>>>>> 499a86f457c8333e04e269c8ce3a8fa7f236b72a
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "d1722d5cf2c7855862f68edb85e31f88",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "613e4cc1af0eb5148b8ce409ad35446d",
@@ -33,9 +41,15 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
+<<<<<<< HEAD
 "index.html": "147a0e1ef58b83dfb5334829fef3c2fd",
 "/": "147a0e1ef58b83dfb5334829fef3c2fd",
 "main.dart.js": "2abe258ce305ad67569c1d988f8d4293",
+=======
+"index.html": "bb6f3e40ac823718555ee69f009a21d2",
+"/": "bb6f3e40ac823718555ee69f009a21d2",
+"main.dart.js": "0537ffa92e4cc59f32cb2076c504dc37",
+>>>>>>> 499a86f457c8333e04e269c8ce3a8fa7f236b72a
 "manifest.json": "f6983c286c10eabc87110b1a05a4966d",
 "version.json": "507dc7c23fb7f2288a0d2f076b7070b7"
 };
